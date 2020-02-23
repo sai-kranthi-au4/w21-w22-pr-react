@@ -1,0 +1,14 @@
+.userInput {
+  border: 1px solid #000;
+  padding: 10px;
+  .form-group {
+    flex: 1;
+  }
+  .form-control {
+    width: 80% !important;
+  }
+  button {
+    margin: 29px;
+    height: 40px;
+  }
+}

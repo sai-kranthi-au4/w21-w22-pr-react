@@ -1,0 +1,14 @@
+.main-wrapper {
+  display: flex;
+  flex-wrap: "wrap";
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+}
+.side-bar {
+  flex: 1;
+}
+.vidplayer {
+  display: inline-block;
+  width: 80%;
+}
